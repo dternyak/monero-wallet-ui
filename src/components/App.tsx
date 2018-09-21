@@ -49,7 +49,7 @@ class App extends React.Component<{}, State> {
           </div>
         </Content>
         <Footer style={{ textAlign: 'center' }}>
-          <a href={""}>GitHub</a>
+          <a target="_blank" href={"https://github.com/dternyak/monero-wallet"}>GitHub</a>
         </Footer>
       </Layout>
     );

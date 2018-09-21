@@ -134,7 +134,7 @@ class NewSendForm extends React.Component {
             onChange={this.handleAmountChange}
           />
         </FormItem>
-        {this.state.latestTxHash && <><a href={`https://www.exploremonero.com/transaction/${this.state.latestTxHash}`}>View TX On ExploreMonero</a><br/></>}
+        {this.state.latestTxHash && <><a target="_blank" href={`https://www.exploremonero.com/transaction/${this.state.latestTxHash}`}>View TX On ExploreMonero</a><br/></>}
         <Button
           onClick={this.submit}
           loading={this.state.submitLoading}
