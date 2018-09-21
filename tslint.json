@@ -1,0 +1,11 @@
+{
+  "extends": [],
+  "rules": {
+    "ordered-imports": false,
+    "object-literal-sort-keys": false,
+    "jsx-boolean-value": false,
+    "member-access": false,
+    "interface-name": [true, "never-prefix"],
+    "curly": [true, "ignore-same-line"]
+  }
+}

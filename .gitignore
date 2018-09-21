@@ -1,0 +1,10 @@
+.next
+node_modules
+.idea
+build
+out
+src/build
+dist
+yarn-error.log
+.cert.pem
+.key.pem

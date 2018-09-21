@@ -1,0 +1,1 @@
+export const DONATION = '43RqChw8CBSUDYCxMW4saMMg5jTTXMXc4gyQ9PqjTyiUYoMmumu9joFiLsBAQrdsLG6ThPibHP9CVDkxNa21JWWgNbi1FUk\n'
